@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`error message is displayed if password is not provided 1`] = `
+<div
+  role="alert"
+  style="color: red;"
+>
+  username required
+</div>
+`;
+
+exports[`error message is displayed if username is not provided 1`] = `
+<div
+  role="alert"
+  style="color: red;"
+>
+  username required
+</div>
+`;
